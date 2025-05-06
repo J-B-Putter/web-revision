@@ -1,0 +1,10 @@
+section#hero {
+    min-height: 20rem;
+    background-color: hotpink;
+    color: white;
+}
+
+section#hero {
+    color: white;
+    font-size: 5rem;
+}
