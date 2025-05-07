@@ -1,10 +1,22 @@
 section#hero {
     min-height: 20rem;
-    background-color: hotpink;
-    color: white;
+    background-color: var(--pico-secondary-background);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
 }
 
 section#hero {
     color: white;
     font-size: 5rem;
+    text-align: center;
+}
+
+section#likes div {
+    display: flex;
+    gap: 1rem;
+
 }
